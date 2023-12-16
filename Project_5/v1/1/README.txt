@@ -1,0 +1,16 @@
+Gen: 20, Child 18 achieved score 21
+Gen: 40, Child 48 achieved score 457
+Gen: 60, Child 0 achieved score 27
+Gen: 80, Child 8 achieved score 29
+Gen: 100, Child 48 achieved score 1188
+Gen: 120, Child 41 achieved score 4
+Gen: 140, Child 4 achieved score 26
+Gen: 160, Child 48 achieved score 855
+Gen: 180, Child 31 achieved score 7
+Gen: 200, Child 4 achieved score 2
+Gen: 220, Child 24 achieved score 78
+Gen: 240, Child 20 achieved score 49
+Gen: 260, Child 0 achieved score 2
+Gen: 280, Child 19 achieved score 44
+Gen: 300, Child 18 achieved score 1
+Gen: 320, Child 45 achieved score 12
